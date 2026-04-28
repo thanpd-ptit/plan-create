@@ -140,4 +140,4 @@ Skill sẽ tự động được phát hiện thông qua file `SKILL.md` với f
 
 ## License
 
-Dự án này chưa có license cụ thể. Vui lòng liên hệ tác giả để biết thêm chi tiết.
+Dự án này được phân phối theo [MIT License](../LICENSE).

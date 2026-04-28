@@ -146,4 +146,4 @@ The skill is automatically discovered via the `SKILL.md` file with `name` and `d
 
 ## License
 
-This project does not yet have a specific license. Please contact the author for details.
+This project is licensed under the [MIT License](LICENSE).
